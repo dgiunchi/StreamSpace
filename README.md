@@ -2,7 +2,7 @@
 
 ![VR and desktop interface of StreamSpace](https://github.com/UCL-VR/StreamSpace/assets/1269004/4e2f73f9-3969-4dc9-969d-febbc95dab17)
 
-StreamSpace introduces a framework for exploring screen-based collaborative Mixed Reality (MR) experiences, focusing on the streaming, integration, and layout of screen content within MR environments. By leveraging Unity and Ubiq technologies, this framework facilitates real-time streaming and interaction with dynamically placed screens in a virtual space, enabling users to engage with, reposition, and resize uniquely identified screens.g
+StreamSpace introduces a framework for exploring screen-based collaborative Mixed Reality (MR) experiences, focusing on the streaming, integration, and layout of screen content within MR environments. By leveraging Unity and Ubiq technologies, this framework facilitates real-time streaming and interaction with dynamically placed screens in a virtual space, enabling users to engage with, reposition, and resize uniquely identified screens. Poster at Proceedings of IEEE VR(2024)
 
 ## Features
 
